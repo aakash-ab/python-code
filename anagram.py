@@ -14,5 +14,5 @@ def anagram(lst1, lst2):
     return (lst1_list == lst2_list)
 
 list1 = ['angel', 'glean', 'robed', 'bored']
-print()
+print(list1)
 
